@@ -29,7 +29,7 @@ A Python program that calculates a student's CGPA by accepting course units and 
 
 - `calculator.py` – Mathematical Calculator source code
 - `cgpa.py` – Personal Pocket CGPA Calculator source code
-- `Assignment_Report.pdf` – Project report
+- `COS 202_Assignment_Report_.pdf` – Project report
 - `screenshots/` – Screenshots showing the execution and output of both programs
 
 ## Author
